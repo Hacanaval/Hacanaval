@@ -17,6 +17,7 @@ A results-oriented professional transitioning from a successful career in the co
 ## 🔗 Let's Connect!
 
 https://www.linkedin.com/in/hugo-canaval/
+
 https://cv-hugo-canaval.lovable.app/
 
 ## 🚀 GitHub Profile Summary
