@@ -10,7 +10,7 @@ strategy before going deep into engineering, and that combination shapes how I b
 
 Most of my production work lives in private repositories, but here's the kind of systems I design and deploy:
 
-- **Predictive ML at scale** — delivery probability model trained on 103M+ records at Coordinadora, reducing operational costs by ~15% (~$50K USD/week in logistics savings)
+- **Predictive ML at scale** — delivery probability model trained on 103M+ records at Coordinadora, reducing operational costs by 15% ($50K USD/week in logistics savings)
 - **Multi-agent AI systems** — Cloud Run + Gemini for automated operational reporting across 8+ data sources
 - **Document intelligence pipelines** — Gemini Vision for invoice OCR + automatic bank reconciliation
 - **Production APIs** — FastAPI services on Cloud Run consuming BigQuery at scale
