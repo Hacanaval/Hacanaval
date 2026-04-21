@@ -20,23 +20,12 @@ Most of my production work lives in private repositories, but here's the kind of
 
 ## Stack
 
-**Languages**
-- Python, SQL
-
-**ML & Data**
-- Scikit-learn, XGBoost, Pandas, NumPy, PySpark, FAISS, BERT/TF-IDF
-
-**Google Cloud Platform (GCP)**
-- BigQuery, Cloud Run, Gemini API, Cloud Storage, gcloud CLI
-
-**LLMs & AI**
-- RAG, Prompt Engineering, LLM pipelines, multimodal (text + vision)
-
-**Backend**
-- FastAPI, Docker, PostgreSQL
-
-**Tools**
-- Git, Telegram Bot API, Google Sheets API
+- **Languages:** Python, SQL
+- **ML & Data:** Scikit-learn, XGBoost, Pandas, NumPy, PySpark, FAISS, BERT/TF-IDF
+- **Google Cloud Platform (GCP):** BigQuery, Cloud Run, Gemini API, Cloud Storage, gcloud CLI
+- **LLMs & AI:** RAG, Prompt Engineering, LLM pipelines, multimodal (text + vision)
+- **Backend:** FastAPI, Docker, PostgreSQL
+- **Tools:** Git, Telegram Bot API
 
 ---
 
@@ -44,12 +33,11 @@ Most of my production work lives in private repositories, but here's the kind of
 
 ### Production work (private repositories — Coordinadora)
 
-- **Delivery probability model** — Random Forest trained on 103M+ records, 15% reduction in failed deliveries, ~$50K USD/week in operational savings. Stack: Python, Scikit-learn, BigQuery, Cloud Run, Optuna
-- **Multi-agent AI reporting system** — Gemini + Cloud Run automating daily operational metrics across 8+ BigQuery data sources
-- **Document intelligence pipeline** — Gemini Vision for invoice OCR + automatic bank reconciliation across multiple bank formats. Stack: Cloud Run, BigQuery, Python
-- **Delivery history API** — Production REST API serving real-time ML scoring. Stack: FastAPI, Cloud Run, BigQuery
-- **Photo evidence validation** — Automated delivery proof classification using Gemini Vision, replacing manual quality review
-- **Operational fraud detection** — Forensic analysis over millions of traceability records to detect anomaly patterns. Stack: Python, BigQuery, Scikit-learn
+- **Delivery probability model:** Random Forest trained on 103M+ records, 15% reduction in failed deliveries, $50K USD/week in operational savings. Stack: Python, Scikit-learn, BigQuery, Cloud Run, Optuna
+- **Multi-agent AI reporting system:** Gemini + Cloud Run automating daily operational metrics across 8+ BigQuery data sources
+- **Document intelligence pipeline:** Gemini Vision for invoice OCR + automatic bank reconciliation across multiple bank formats. Stack: Cloud Run, BigQuery, Python
+- **Delivery history API:** Production REST API serving real-time ML scoring. Stack: FastAPI, Cloud Run, BigQuery
+- **Photo evidence validation:** Automated delivery proof classification using Gemini Vision, replacing manual quality review
 
 ### Training projects (public)
 
