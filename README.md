@@ -1,32 +1,46 @@
-# Hi there, I'm Hugo Canaval! 👋
+# CV_HACA — Perfil Profesional Hugo Canaval
 
-A passionate **Data Scientist** with a strong foundation in **Machine Learning and Artificial Intelligence**. I apply data-driven strategies and business insights to solve complex problems and drive growth.
+Carpeta de gestión del perfil profesional de Hugo Alejandro Canaval Agudelo.
+Centraliza el CV, el contexto de proyectos y la presencia en GitHub para actualización continua.
 
-## 🛠️ Skills & Expertise
+## Contenido
 
-* **Programming Languages:** Python, SQL
-* **Machine Learning:** Predictive modeling, classification, regression, clustering.
-* **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn.
-* **Data-Driven Strategy:** Development and implementation of insight-driven strategies.
-* **Business Intelligence & Analytics:** Report generation, KPI analysis, opportunity identification.
+```
+CV_HACA/
+├── README.md                   ← Este archivo
+└── docs/
+    ├── CV.md                   ← CV completo (código LaTeX + notas de versión)
+    ├── contexto_perfil.md      ← Perfil profesional completo + proyectos del workspace
+    └── github.md               ← README y presencia en GitHub
+```
 
-## 💼 About Me
+## Para qué sirve
 
-A results-oriented professional transitioning from a successful career in the consumer goods industry (BAT, Anheuser-Busch InBev, Mondelēz, Nielsen) where I developed strong skills in data analysis, strategic thinking, and digital transformation. I am now fully immersed in the world of Data Science, eager to apply my analytical abilities and business acumen to extract meaningful insights and build impactful solutions. My experience in sales, trade marketing, and category management has provided me with a unique perspective on leveraging data to drive business growth and improve decision-making.
+- Mantener el CV actualizado con los proyectos reales construidos en este workspace
+- Tener contexto consolidado para que el LLM pueda ayudar a redactar, actualizar y mejorar el CV
+- Registrar el delta entre lo que dice el CV y lo que realmente se ha construido
+- Base para actualizar el GitHub, el CV web (`cv-hugo-canaval.vercel.app`) y LinkedIn
 
-## 🔗 Let's Connect!
+## Documentación
 
-https://www.linkedin.com/in/hugo-canaval/
+| Archivo | Contenido |
+|---------|-----------|
+| `docs/CV.md` | Código LaTeX del CV actual + tabla de gaps identificados respecto a proyectos reales |
+| `docs/contexto_perfil.md` | Perfil completo: narrativa de evolución, antes/después de Coordinadora, inventario de 6 logros con métricas para CV |
+| `docs/github.md` | README actual de GitHub + análisis de problemas + README nuevo listo para publicar |
+| `docs/buenas-practicas-perfil-tech.md` | Guía verificada con fuentes: GitHub con trabajo privado, NDA en CV, ghost-commits, formulaciones que funcionan |
 
-https://cv-hugo-canaval.lovable.app/
+## Estado actual
 
-## 🚀 GitHub Profile Summary
+| Artefacto | Estado | Notas |
+|-----------|--------|-------|
+| CV LaTeX | Requiere actualización | Proyectos Coordinadora no están reflejados — ver `docs/CV.md` tabla de gaps |
+| GitHub README | README nuevo redactado — pendiente publicar | Ver `docs/github.md` sección "README nuevo (listo para publicar)" |
+| CV web | `cv-hugo-canaval.vercel.app` | URL activa. La de `lovable.app` está desactualizada |
+| CV web (código fuente) | Pendiente — Hugo adjuntará carpeta del proyecto | Para modificar el sitio Vercel |
+| LinkedIn | Pendiente revisar | Pendiente alinear con narrativa actualizada |
+| ghost-commits | Pendiente evaluar implementación | Solución para gráfica GitHub vacía sin exponer código privado |
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hacanaval&theme=dark)
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hacanaval&theme=dark)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hacanaval&theme=dark)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hacanaval&theme=dark)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hacanaval&theme=dark&utcOffset=8)
+## Autor
 
-
-
+Hugo Alejandro Canaval Agudelo — Data Scientist, Coordinadora Mercantil S.A.
